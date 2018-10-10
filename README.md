@@ -22,6 +22,6 @@ See the link below for further details.
 <https://www.pit-ray.com/entry/tasksyslib_ref>
 
 ## Author
-pit-ray
-My homepage:<https://www.pit-ray.com>  
-My E-mail  :pitxray*gmail.com ( * to @ )  
+**pit-ray**  
+**[homepage]**<https://www.pit-ray.com>  
+**[E-mail]** pitxray*gmail.com ( * to @ )  
