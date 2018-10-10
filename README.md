@@ -6,7 +6,7 @@ There are times when you want to specify the order and switching of functions to
 For example, there are state transition, title screens, menu screens, etc...  
 In such a case, using this tasksyslib, you can easily build a task system.  
 Specifically, function pointers and priorities are registered as tasks.  
-Also, this tasksyslib is designed to use wastefully the memory space used by the task system itself.  
+Also, this tasksyslib is designed to use without any waste of the memory space used by the task system itself.  
 
 ## Build instructions
 I has recommended 'cmake'
