@@ -24,4 +24,4 @@ See the link below for further details.
 ## Author
 **pit-ray**  
 **[homepage]**<https://www.pit-ray.com>  
-**[E-mail]** pitxray*gmail.com ( * to @ )  
+**[E-mail]** contact*pit-ray.com ( * to @ )  
